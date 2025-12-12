@@ -1,6 +1,6 @@
-# Advanced Visual Analytics Assignments 
+# Advanced Visual Analytics Assignments & Project
  
-This repository contains a series of assignments from the OM 621 Advanced Visual Analytics course at California State University San Marcos. The project centers on developing a predictive cost estimation model for WD-40’s transportation operations, using historical shipment and invoice data to support strategic decision-making across finance, procurement, and supply chain leadership.
+This repository contains a series of assignments from the OM 621 Advanced Visual Analytics course at California State University San Marcos. The assignments center on developing a predictive cost estimation model for WD-40’s transportation operations, using historical shipment and invoice data to support strategic decision-making across finance, procurement, and supply chain leadership.
 
 ## Learning Objectives
 
@@ -10,6 +10,9 @@ This repository contains a series of assignments from the OM 621 Advanced Visual
 - Explore time-series patterns in invoice data to inform cost estimation and forecasting.
 - Document analytical decisions and build reproducible workflows for stakeholder use.
 - Translate technical findings into strategic insights for finance, procurement, and leadership teams.
+- Apply end‑to‑end analytics workflows by integrating Python preprocessing with Power BI visualization and reporting
+- Develop interactive dashboards that transform raw aviation data into structured insights for decision‑making
+
 
 
 ## Technologies and Tools Utilized
@@ -23,7 +26,7 @@ This repository contains a series of assignments from the OM 621 Advanced Visual
 ## Assignment 1: Context Artifacts and Problem Framing
 
 ### Case Background  
-WD-40, a prominent San Diego-based company, faces recurring challenges in budgeting and forecasting transportation costs. Shipments—whether internal transfers or customer orders—are handled by third-party logistics providers across multiple modes (air, truck, container). However, invoice delays of weeks or months prevent timely cost visibility, creating ripple effects across finance, procurement, and executive planning.
+WD-40, a prominent San Diego-based company, faces recurring (hypothetical) challenges in budgeting and forecasting transportation costs. Shipments—whether internal transfers or customer orders—are handled by third-party logistics providers across multiple modes (air, truck, container). However, invoice delays of weeks or months prevent timely cost visibility, creating ripple effects across finance, procurement, and executive planning.
 
 ### Who, What, and How  
 - **Who**: Director of Supply Chain at WD-40  
