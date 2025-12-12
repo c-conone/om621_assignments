@@ -4,12 +4,6 @@ This repository contains a series of assignments from the OM 621 Advanced Visual
 
 # OM 621 Assignments and Project Overview
 
-<iframe width="720" height="405"
-src="https://www.youtube.com/embed/YC9fCDyQkkA"
-title="OM 621 Video Demo" frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
-
 [Watch on YouTube](https://youtu.be/YC9fCDyQkkA)
 
 
